@@ -1,3 +1,8 @@
+Proman is a Kanban board where you manage tasks to do. You can drag and drop tasks between columns. It is possbile to add, remove, change and delte boards and tasks. There are implemented registration and login user.
+
+Project is deploy under link below
+https://proman-pro.herokuapp.com
+
 # ProMan
 
 ## Story
