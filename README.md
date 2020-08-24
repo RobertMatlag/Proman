@@ -1,4 +1,4 @@
-# ProMan (sprint 1)
+# ProMan
 
 ## Story
 
@@ -150,25 +150,3 @@ the case. Let's get this job done.
 
 22. Allow the user to collaborate with other users in real-time
     - Whenever any user makes a change to any board or its cards, ensure that other users with access to it get the refresh automatically, so they can immediately see the changes
-
-## General requirements
-
-None
-
-## Hints
-
-None
-
-## Starting your project
-
-To start your project click [this link](https://journey.code.cool/v2/project/team/blueprint/proman-1/python).
-
-## Background materials
-
-- :exclamation: [Callbacks](https://learn.code.cool/full-stack/#/../pages/javascript/javascript-callbacks)
-- :exclamation: [API, AJAX](https://learn.code.cool/full-stack/#/../pages/web/the-last-missing-piece-api)
-- :exclamation: [RESTful](https://learn.code.cool/full-stack/#/../pages/web/restful)
-- [Pass by value vs by reference](https://learn.code.cool/full-stack/#/../pages/javascript/javascript-pass-by-value-vs-reference)
-- [Modules](https://learn.code.cool/full-stack/#/../pages/javascript/javascript-modules)
-- [Keyword this](https://learn.code.cool/full-stack/#/../pages/javascript/javascript-this)
-- [Tips & Tricks](https://learn.code.cool/full-stack/#/../pages/web/web-with-python-tips.md)
